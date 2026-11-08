@@ -1,0 +1,23 @@
+{
+  "name": "c05-public-interaction-example",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "tsc --noEmit && vite build --outDir docs",
+    "test": "node --test tests/*.test.ts"
+  },
+  "dependencies": {
+    "react": "19.2.7",
+    "react-dom": "19.2.7"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.17",
+    "@types/react-dom": "19.2.3",
+    "typescript": "5.8.3",
+    "vite": "7.3.6"
+  },
+  "engines": {
+    "node": ">=24"
+  }
+}

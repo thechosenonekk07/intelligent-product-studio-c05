@@ -1,0 +1,169 @@
+{
+  "schema": "design-pilot/design-snapshot/v1",
+  "readonly": true,
+  "project": {
+    "id": "c05-public-example",
+    "name": "C05 Public Example"
+  },
+  "release": "1.0 · 合成示例",
+  "originSource": "本演示自编设计变量；不对应真实项目发布",
+  "sourceReadMode": "self-authored-synthetic-example",
+  "sourceFiles": [],
+  "tokens": {
+    "primary": {
+      "value": "#0f766e",
+      "source": "self-authored-example",
+      "status": "example-only"
+    },
+    "primary_hover": {
+      "value": "#115e59",
+      "source": "self-authored-example",
+      "status": "example-only"
+    },
+    "primary_active": {
+      "value": "#134e4a",
+      "source": "self-authored-example",
+      "status": "example-only"
+    },
+    "on_primary": {
+      "value": "#ffffff",
+      "source": "self-authored-example",
+      "status": "example-only"
+    },
+    "focus_ring": {
+      "value": "#0f766e",
+      "source": "self-authored-example",
+      "status": "example-only"
+    },
+    "primary_subtle": {
+      "value": "#e8f6f3",
+      "source": "self-authored-example",
+      "status": "example-only"
+    },
+    "text": {
+      "value": "#172b3a",
+      "source": "self-authored-example",
+      "status": "example-only"
+    },
+    "text_secondary": {
+      "value": "#566777",
+      "source": "self-authored-example",
+      "status": "example-only"
+    },
+    "page": {
+      "value": "#f3f6f7",
+      "source": "self-authored-example",
+      "status": "example-only"
+    },
+    "surface": {
+      "value": "#ffffff",
+      "source": "self-authored-example",
+      "status": "example-only"
+    },
+    "subtle": {
+      "value": "#f8fafb",
+      "source": "self-authored-example",
+      "status": "example-only"
+    },
+    "hover": {
+      "value": "#edf2f4",
+      "source": "self-authored-example",
+      "status": "example-only"
+    },
+    "border": {
+      "value": "#dfe6e9",
+      "source": "self-authored-example",
+      "status": "example-only"
+    },
+    "border_strong": {
+      "value": "#bac8cf",
+      "source": "self-authored-example",
+      "status": "example-only"
+    },
+    "warning": {
+      "value": "#b45309",
+      "source": "self-authored-example",
+      "status": "example-only"
+    },
+    "warning_bg": {
+      "value": "#fff4e5",
+      "source": "self-authored-example",
+      "status": "example-only"
+    },
+    "danger": {
+      "value": "#b42318",
+      "source": "self-authored-example",
+      "status": "example-only"
+    },
+    "danger_bg": {
+      "value": "#fff0ed",
+      "source": "self-authored-example",
+      "status": "example-only"
+    },
+    "font": {
+      "value": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", \"Microsoft YaHei\", sans-serif",
+      "source": "self-authored-example",
+      "status": "example-only"
+    },
+    "radius_sm": {
+      "value": "4px",
+      "source": "self-authored-example",
+      "status": "example-only"
+    },
+    "radius_md": {
+      "value": "6px",
+      "source": "self-authored-example",
+      "status": "example-only"
+    },
+    "radius_lg": {
+      "value": "10px",
+      "source": "self-authored-example",
+      "status": "example-only"
+    },
+    "textPrimary": {
+      "value": "#172b3a",
+      "source": "self-authored-example",
+      "status": "example-only"
+    },
+    "surfaceBackground": {
+      "value": "#ffffff",
+      "source": "self-authored-example",
+      "status": "example-only"
+    }
+  },
+  "cssVariables": {
+    "--pilot-primary": "#0f766e",
+    "--pilot-primary-hover": "#115e59",
+    "--pilot-primary-active": "#134e4a",
+    "--pilot-on-primary": "#ffffff",
+    "--pilot-focus-ring": "#0f766e",
+    "--pilot-primary-subtle": "#e8f6f3",
+    "--pilot-text": "#172b3a",
+    "--pilot-text-secondary": "#566777",
+    "--pilot-page": "#f3f6f7",
+    "--pilot-surface": "#ffffff",
+    "--pilot-subtle": "#f8fafb",
+    "--pilot-hover": "#edf2f4",
+    "--pilot-border": "#dfe6e9",
+    "--pilot-border-strong": "#bac8cf",
+    "--pilot-warning": "#b45309",
+    "--pilot-warning-bg": "#fff4e5",
+    "--pilot-danger": "#b42318",
+    "--pilot-danger-bg": "#fff0ed",
+    "--pilot-font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", \"Microsoft YaHei\", sans-serif",
+    "--pilot-radius-sm": "4px",
+    "--pilot-radius-md": "6px",
+    "--pilot-radius-lg": "10px"
+  },
+  "approvedComponents": [],
+  "runtime": {
+    "usage": "本页使用原生按钮、选择框、进度条和对话框。此合成快照用于说明设计绑定，不代表正式组件库。",
+    "deliveredComponentPackage": false
+  },
+  "dataQualityNotes": [
+    "这份设计快照专为公开示例生成，不包含真实项目标识、审批人、提交记录或内部文件路径。",
+    "颜色、字号和圆角是本演示的视觉约定；示例状态不等同正式设计审批。",
+    "所有进度与故障均在浏览器内模拟，未调用上传、解析、AI 或账号服务。"
+  ],
+  "id": "c05-synthetic-design-v1-04bc24c61a6c"
+}
